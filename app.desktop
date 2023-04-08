@@ -4,4 +4,4 @@ Type=Link
 Name=URLdesktop
 Comment=URL Desktop app to kali Linux
 Icon=anbox
-URL=/home/kali
+URL=/home/kali/
