@@ -1,4 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Type=Link
-Name=
+Name=URLdesktop
+Comment=URL Desktop app to kali Linux
+Icon=anbox
+URL=/home/kali
