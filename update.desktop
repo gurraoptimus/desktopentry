@@ -4,6 +4,6 @@ Type=Application
 Name=Update
 Comment=Update your Desktop app for kali Linux
 Icon=update-none
-Exce=/home/kali/Update
+Exec=/home/kali/Update
 Terminal=false
 StartupNotify=false
