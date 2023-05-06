@@ -2,9 +2,10 @@
 Version=2.0
 Type=Application
 Name=Update
-Comment=Update your Desktop app for kali Linux
+Comment=Update your Desktop app for Linux
 Icon=update-none
-Terminal=True
+Terminal=true
 StartupNotify=false
-Exec=sudo apt update && sudo apt full-upgrade-y
-Path=
+GenericName=Update your Desktop app for Linux
+Exec=sudo apt update
+//Path=
