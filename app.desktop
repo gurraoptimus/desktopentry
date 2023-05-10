@@ -2,6 +2,7 @@
 Version=1.0
 Type=Link
 Name=URLdesktop
-Comment=URL Desktop app to kali Linux
+Comment=URL Desktop app to Linux
+GenericName=URL Desktop app to Linux
 Icon=anbox
 URL=/home/kali/
