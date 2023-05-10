@@ -4,8 +4,8 @@ Type=Application
 Name=Update
 Comment=Update your Desktop app for Linux
 Icon=update-none
+Exec="sudo apt update" %f
 Terminal=true
 StartupNotify=false
 GenericName=Update your Desktop app for Linux
-Exec=sudo apt update
-//Path=
+
