@@ -4,8 +4,8 @@ Type=Application
 Name=Update
 Comment=Update your Desktop app for Linux
 Icon=update-none
-Exec="sudo apt upgrade" %f
+Exec="/home/kali/update.sh" %f
+Path=/home/desktopentry/update.desktop
 Terminal=true
 StartupNotify=false
 GenericName=Update your Desktop app for Linux
-
