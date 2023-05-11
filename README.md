@@ -1,4 +1,4 @@
 # Desktop Entry
 ## Desktop Entry to Linux
-### [app.desktop](https://github.com/gurraoptimus/desktopentry/blob/main/app.desktop)
+### [url.desktop](https://github.com/gurraoptimus/desktopentry/blob/main/url.desktop)
 ### [update.desktop](https://github.com/gurraoptimus/desktopentry/blob/main/update.desktop)
